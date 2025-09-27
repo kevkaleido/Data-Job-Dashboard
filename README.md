@@ -4,8 +4,8 @@ This is an interactive analytics dashboard analyzing 479K+ data-related job post
 
 
 
-![Main Dashboard](/Imgs/Project1_page1.PNG)
-![Job Title Detail](/Imgs/Project1_page2.PNG)
+![Main Dashboard](/imgs/Project1_page1.PNG)
+![Job Title Detail](/imgs/Project1_page2.PNG)
 
 ## Features
 
