@@ -6,7 +6,7 @@ This repository documents my Power BI development journey through practical dash
 # Featured Dashboards
 The Dashboards below have their own dedicated README with more details on the processes involved in building them and the specific features.
 
-## Data Jobs Dashboard (v1 - Comprehensive Exploration)
+## Data Jobs Dashboard (V1 - Comprehensive Exploration)
 
 ![Main Dashboard](/imgs/Project1_page1.PNG)
 
@@ -24,3 +24,24 @@ Technical Skills Demonstrated:
 - Drill-through capabilities for detailed analysis
 
 [**View Full Project 1 Details (README)**](/Data_Jobs_V1/README.md)
+
+
+## Data Jobs Dashboard (V2- Single Page Focus)
+
+![Main Dashboard](/imgs/Project2.PNG)
+
+
+[**View the Interactive Dashboard on Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiYTY4OTQwMDktNzg1Yy00NTVlLWJmZmMtMjhmZmMzYTVmMjdlIiwidCI6IjdiZmRkZGZhLWI1MTgtNGJhMC05YmQ2LWQzODZlNzBhN2RiZCJ9)
+
+Skills Demonstrated:
+- Visual design and dashboard architecture
+- ETL processes and data transformation with Power Query
+- Data modeling with table relationships and schemas
+- Custom calculations using DAX measures and aggregations
+- Visual analytics: bar, line, area, and column charts
+- Performance metrics through KPI cards and detailed tables
+- Dynamic filtering with interactive slicers
+- Navigation elements with buttons
+- Drill-through capabilities for detailed analysis
+
+[**View Full Project 2 Details (README)**](/Data_Jobs_V2/README.md)
