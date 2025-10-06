@@ -1,30 +1,26 @@
-# Data Jobs Dashboard with PowerBI
 
-This is an interactive analytics dashboard analyzing 479K+ data-related job postings with drill-through capabilities for detailed job title exploration.
+# Power BI Dashboard Portforlio
 
+This repository documents my Power BI development journey through practical dashboard implementations. Projects range from foundational report design to advanced DAX calculations and interactive visualizations, all focused on delivering data-driven insights for decision-making
 
+# Featured Dashboards
+The Dashboards below have their own dedicated README with more details on the processes involved in building them and the specific features.
 
-![Main Dashboard](/imgs/Project1_page1.PNG)
-![Job Title Detail](/imgs/Project1_page2.PNG)
+## Data Jobs Dashboard (v1 - Comprehensive Exploration)
 
-## Features
+![Main Dashboard](/Imgs/Project1_page1.PNG)
 
-- Interactive job market overview with salary analytics
-- Monthly trend analysis for 2024
-- Drill-through functionality to explore specific job titles
-- Multi-platform job aggregation and comparison
-- Work-from-home and benefits analysis
+[**View the Interactive Dashboard on Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiMzcyYTI3NzYtYjI2OS00MTU4LTgwYjctMGYzZGYwMmFmMzJjIiwidCI6IjdiZmRkZGZhLWI1MTgtNGJhMC05YmQ2LWQzODZlNzBhN2RiZCJ9)
 
-## Skills Demonstrated
+Technical Skills Demonstrated:
+- Visual design and dashboard architecture
+- ETL processes and data transformation with Power Query
+- Data modeling with table relationships and schemas
+- Custom calculations using DAX measures and aggregations
+- Visual analytics: bar, line, area, and column charts
+- Performance metrics through KPI cards and detailed tables
+- Dynamic filtering with interactive slicers
+- Navigation elements with buttons
+- Drill-through capabilities for detailed analysis
 
-- **Data Analysis**: Dataset processing and statistical analysis
-- **Data Visualization**: Multi-chart dashboards with interactive elements
-- **Business Intelligence**: KPI development and trend analysis
-- **Dashboard Development**: Multi-page architecture with drill-through navigation
-- **Data Integration**: Aggregated data from multiple job platforms
-- **UX Design**: Clean, professional interface with intuitive navigation
-
-
-## Use Cases
-
-Perfect for job seekers doing salary research and recruiters analyzing market trends.
+[**View Full Project 1 Details (README)**](/Data_Jobs_V1/README.md)
