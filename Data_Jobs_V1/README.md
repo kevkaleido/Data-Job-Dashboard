@@ -1,11 +1,14 @@
-# Data Jobs Dashboard with PowerBI
+# Data Jobs Dashboard (V1) with PowerBI
 
 This is an interactive analytics dashboard analyzing 479K+ data-related job postings with drill-through capabilities for detailed job title exploration.
 
 
 
 ![Main Dashboard](/imgs/Project1_page1.PNG)
+
 ![Job Title Detail](/imgs/Project1_page2.PNG)
+
+[**View the Interactive Dashboard on Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiMzcyYTI3NzYtYjI2OS00MTU4LTgwYjctMGYzZGYwMmFmMzJjIiwidCI6IjdiZmRkZGZhLWI1MTgtNGJhMC05YmQ2LWQzODZlNzBhN2RiZCJ9)
 
 ## Features
 

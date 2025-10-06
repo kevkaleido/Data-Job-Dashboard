@@ -8,7 +8,7 @@ The Dashboards below have their own dedicated README with more details on the pr
 
 ## Data Jobs Dashboard (v1 - Comprehensive Exploration)
 
-![Main Dashboard](/Imgs/Project1_page1.PNG)
+![Main Dashboard](/imgs/Project1_page1.PNG)
 
 [**View the Interactive Dashboard on Power BI Service**](https://app.powerbi.com/view?r=eyJrIjoiMzcyYTI3NzYtYjI2OS00MTU4LTgwYjctMGYzZGYwMmFmMzJjIiwidCI6IjdiZmRkZGZhLWI1MTgtNGJhMC05YmQ2LWQzODZlNzBhN2RiZCJ9)
 
